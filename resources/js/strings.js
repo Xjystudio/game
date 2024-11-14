@@ -65,7 +65,7 @@ loadTimeData.data = {
   resetAllStatsDialogTitle: "重置所有数据",
   share: "分享",
   shareCopy: "复制链接",
-  shareLink: "https://game.xiejiayu.tk",
+  shareLink: "https://game.xiejiayu.com",
   shareLinkCopied: "已复制！",
   skiTheme: "高山滑雪",
   specialThanks: "特别鸣谢:",
